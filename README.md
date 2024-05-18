@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/9292469a-499a-4717-95fa-44a897b83788.svg" alt="https://wakatime.com/@9292469a-499a-4717-95fa-44a897b83788"/>
+</p>
+
 <!--
 **Hawstyyy/Hawstyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
