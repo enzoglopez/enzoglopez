@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/9292469a-499a-4717-95fa-44a897b83788.svg)](https://wakatime.com/@9292469a-499a-4717-95fa-44a897b83788)
 
-![Hawstyyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hawstyyy&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+![Hawstyyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hawstyyy&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **Hawstyyy/Hawstyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
