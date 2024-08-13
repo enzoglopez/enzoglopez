@@ -7,7 +7,7 @@ Begginer python developer, here to learn! :D
 
 ![Hawstyyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hawstyyy&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
-- 🌱 Currently learning HTML, CSS
+- 🌱 Currently learning HTML, CSS, MySQL
 - 📫 Add me on discord: hawsty
 - 👯 I’m currently collaborating on [Feme](https://github.com/Braiani/feme)
 
