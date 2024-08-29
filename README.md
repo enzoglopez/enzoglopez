@@ -1,5 +1,5 @@
 <h1 align=center> Hi there 👋 </h1>
-Begginer python developer, here to learn! :D
+Begginer developer that is here to learn! :D
 
 <h2 align=center> Time coding and most used languages</h2>
 
