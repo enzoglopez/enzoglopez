@@ -6,3 +6,4 @@ Begginer developer that is here to learn! :D
 [![wakatime](https://wakatime.com/badge/user/9292469a-499a-4717-95fa-44a897b83788.svg)](https://wakatime.com/@9292469a-499a-4717-95fa-44a897b83788)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoglopez&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Enzo Guenka Lopez's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoglopez&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Enzo Guenka Lopez's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enzoglopez)](https://github.com/anuraghazra/github-readme-stats)
