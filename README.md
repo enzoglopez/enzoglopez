@@ -2,7 +2,7 @@
 
 I'm a **developer student** eager to build awesome things and keep learning every day!
 
-## About Me
+##  About Me
 
 - 🌱 Currently studying and growing my skills as a developer
 - 💻 Focused on web development
