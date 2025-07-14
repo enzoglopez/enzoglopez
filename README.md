@@ -19,7 +19,7 @@ I'm a **developer student** eager to build awesome things and keep learning ever
 
 ## 📫 How to reach me
 
-- GitHub: [enzoglopez](https://github.com/enzoglopez)
+- Linkedin: [Enzo Guenka Lopez](https://br.linkedin.com/in/enzo-guenka-lopez-08b67030b)
 
 ## 📄 Some Github Stats
 
