@@ -1,7 +1,27 @@
-<h1 align=center> Hi there 👋 </h1>
-Begginer developer that is here to learn! :D
+# Hi there, I'm Enzo 👋
 
-<h2 align=center> Time coding and most used languages</h2>
+I'm a **developer student** eager to build awesome things and keep learning every day!
+
+## About Me
+
+- 🌱 Currently studying and growing my skills as a developer
+- 💻 Focused on web development
+- 👨‍💻 Actively contributing to [INA](https://github.com/SenacINA/INA)
+
+## 🛠️ Skills
+
+- **Languages:** HTML, CSS, JavaScript, PHP, MySQL, Python
+
+## 📌 Featured Project
+
+- [INA @SenacINA/INA](https://github.com/SenacINA/INA)  
+  Contributing student developer on a real-world project!
+
+## 📫 How to reach me
+
+- GitHub: [enzoglopez](https://github.com/enzoglopez)
+
+## 📄 Some Github Stats
 
 [![Enzo Guenka Lopez's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzoglopez&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Enzo Guenka Lopez's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enzoglopez&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
