@@ -6,7 +6,6 @@ I'm a **developer student** eager to build awesome things and keep learning ever
 
 - 🌱 Currently studying and growing my skills as a developer
 - 💻 Focused on web development
-- 👨‍💻 Actively contributing to [INA](https://github.com/SenacINA/INA)
 
 ## 📲 Contacts
 
