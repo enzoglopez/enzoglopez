@@ -7,10 +7,6 @@ I'm a **developer student** eager to build awesome things and keep learning ever
 - 🌱 Currently studying and growing my skills as a developer
 - 💻 Focused on web development
 
-## 📲 Contacts
-
-- Linkedin: https://br.linkedin.com/in/enzo-guenka-lopez-08b67030b
-
 ## 🛠️ Skills
 
 - **Languages:** HTML, CSS, JavaScript, PHP, MySQL, Python
