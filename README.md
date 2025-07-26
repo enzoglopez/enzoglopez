@@ -8,6 +8,10 @@ I'm a **developer student** eager to build awesome things and keep learning ever
 - 💻 Focused on web development
 - 👨‍💻 Actively contributing to [INA](https://github.com/SenacINA/INA)
 
+## 📲 Contacts
+
+- Linkedin: https://br.linkedin.com/in/enzo-guenka-lopez-08b67030b
+
 ## 🛠️ Skills
 
 - **Languages:** HTML, CSS, JavaScript, PHP, MySQL, Python
